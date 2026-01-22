@@ -14,7 +14,6 @@ The project is intended for system administrators and advanced users who need a 
 
 This repository contains **only a Windows executable file** (`KMA Startup Manager.exe`).
 
-The application is built using **PyInstaller** and does **not** require Python to be installed on the target system.
 
 ---
 
