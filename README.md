@@ -52,9 +52,6 @@ The application is built using **PyInstaller** and does **not** require Python t
 ## Known limitations
 
 * Windows only.
-* Some startup entries may require administrator privileges to modify.
-* The executable may be 32-bit or 64-bit depending on how it was built with PyInstaller.
-
 
 ---
 
