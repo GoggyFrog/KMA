@@ -1,6 +1,6 @@
 # KMA Startup Manager
 
-**Version:** 2.0
+**Version:** 2.1.0
 
 ## Overview
 
@@ -12,8 +12,10 @@ The project is intended for system administrators and advanced users who need a 
 
 ## Release format
 
-This repository contains **only a Windows executable file** (`KMA Startup Manager.exe`).
+This repository contains **binary release files only** (no source code publication in this repo):
 
+- `KMA.exe`
+- `latest.json` (manifest for in-app auto-update)
 
 ---
 
@@ -33,7 +35,7 @@ This repository contains **only a Windows executable file** (`KMA Startup Manage
 
 ## Quick start
 
-1. Download `KMA Startup Manager.exe` from the GitHub release page.
+1. Download `KMA.exe` from the GitHub release page (or repository file list).
 2. Run the file by double-clicking it.
 3. For full functionality, allow administrator privileges when prompted by Windows (UAC).
 
